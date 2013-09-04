@@ -25,7 +25,7 @@
         <activity
             android:name="com.nomrasco.tools.demos.ToolDemoDetailActivity"
             android:label="@string/title_tooldemo_detail"
-            android:parentActivitycom.nomrasco.tools.demos.ToolDemoListActivitytivity" >
+            android:parentActivityName="com.nomrasco.tools.demos.ToolDemoListActivity" >
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value=".ToolDemoListActivity" />
